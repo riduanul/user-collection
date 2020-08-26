@@ -1,0 +1,14 @@
+.info-container{
+    display:flex;
+}
+.info{
+    width: 70%;
+    }
+.details{
+    margin-left: 10px;
+    border-left: 2px solid gray;
+}
+.details h2, h3{
+    text-align:center;
+    margin-left: 40px;
+}
